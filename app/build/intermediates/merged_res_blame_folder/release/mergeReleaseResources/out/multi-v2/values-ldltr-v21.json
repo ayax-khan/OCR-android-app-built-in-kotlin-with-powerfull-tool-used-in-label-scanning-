@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.buy2enjoy.returnscanner.app-mergeReleaseResources-86:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Muhammad Ayaz\\.gradle\\caches\\8.9\\transforms\\69ecb27ae86f5906680ffe97998ca91d\\transformed\\appcompat-1.6.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

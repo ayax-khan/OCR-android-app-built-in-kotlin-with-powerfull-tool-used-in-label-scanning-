@@ -1,0 +1,4 @@
+D:\app\feature-detail\src\main\java\com\buy2enjoy\feature_detail\clipboard.kt
+D:\app\feature-detail\src\main\java\com\buy2enjoy\feature_detail\SellerCenter.kt
+D:\app\feature-detail\src\main\java\com\buy2enjoy\feature_detail\DetailScreen.kt
+D:\app\feature-detail\src\main\java\com\buy2enjoy\feature_detail\DetailViewModel.kt

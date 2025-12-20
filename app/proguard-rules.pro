@@ -1,0 +1,7 @@
+-dontnote org.bouncycastle.**
+-keep class androidx.camera.** { *; }
+-keep class com.google.mlkit.** { *; }
+-keep class com.google.android.gms.internal.mlkit_** { *; }
+-keep class androidx.room.** { *; }
+-keep class kotlinx.coroutines.** { *; }
+-dontwarn org.apache.commons.**
