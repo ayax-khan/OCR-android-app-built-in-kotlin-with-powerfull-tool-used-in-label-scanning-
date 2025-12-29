@@ -1,101 +1,102 @@
-com.buy2enjoy.returnscanner.app-jetified-navigation-compose-2.8.3-0 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\00040a097abf242e65998d0958cddc49\transformed\jetified-navigation-compose-2.8.3\res
-com.buy2enjoy.returnscanner.app-core-1.13.1-1 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\04d22834d5fcfdf15bc7c2c5705f2261\transformed\core-1.13.1\res
-com.buy2enjoy.returnscanner.app-work-runtime-2.9.1-2 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\0a6fc406de8fe6cdaf39083930068d9e\transformed\work-runtime-2.9.1\res
-com.buy2enjoy.returnscanner.app-jetified-paging-compose-release-3 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\113a3c757f5f788582e059617e96bfc4\transformed\jetified-paging-compose-release\res
-com.buy2enjoy.returnscanner.app-jetified-viewpager2-1.0.0-4 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\150637f564942e0022122d3871aa81f1\transformed\jetified-viewpager2-1.0.0\res
-com.buy2enjoy.returnscanner.app-jetified-lifecycle-runtime-release-5 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\178eb49b10e43e1a27102f709889c944\transformed\jetified-lifecycle-runtime-release\res
-com.buy2enjoy.returnscanner.app-jetified-foundation-layout-release-6 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\1edf779013ec3158154464a6c2b25529\transformed\jetified-foundation-layout-release\res
-com.buy2enjoy.returnscanner.app-jetified-material3-release-7 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\228f442a65e5034aec9227892c55f7bc\transformed\jetified-material3-release\res
-com.buy2enjoy.returnscanner.app-jetified-animation-core-release-8 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\23618f0bf0112aad67a832891380ab13\transformed\jetified-animation-core-release\res
-com.buy2enjoy.returnscanner.app-paging-runtime-3.3.2-9 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\2a1a2cf10ae79c23279d06b57fd7a25d\transformed\paging-runtime-3.3.2\res
-com.buy2enjoy.returnscanner.app-drawerlayout-1.1.1-10 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\2a7de42ae28ceb947fc0663d198b3515\transformed\drawerlayout-1.1.1\res
-com.buy2enjoy.returnscanner.app-jetified-ui-release-11 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\31a425a3197bc8db23d69f9bace6eb60\transformed\jetified-ui-release\res
-com.buy2enjoy.returnscanner.app-jetified-paging-common-release-12 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\3387af072c4ff378194e10bf97c0c806\transformed\jetified-paging-common-release\res
-com.buy2enjoy.returnscanner.app-jetified-hilt-navigation-1.2.0-13 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\3413127adc8cb5e9081d204351f19e4d\transformed\jetified-hilt-navigation-1.2.0\res
-com.buy2enjoy.returnscanner.app-jetified-lifecycle-process-2.8.6-14 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\343552b6634f2114f78fa98e88e2a4d4\transformed\jetified-lifecycle-process-2.8.6\res
-com.buy2enjoy.returnscanner.app-jetified-activity-compose-1.9.3-15 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\3841783b82a350c0dedfa84b27ae35ae\transformed\jetified-activity-compose-1.9.3\res
-com.buy2enjoy.returnscanner.app-material-1.12.0-16 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\3a2871ab05a15d62893f4f89cbe731cc\transformed\material-1.12.0\res
-com.buy2enjoy.returnscanner.app-jetified-core-ktx-1.13.1-17 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\3e1e2c74dd8a1842735fc49347fc8e54\transformed\jetified-core-ktx-1.13.1\res
-com.buy2enjoy.returnscanner.app-constraintlayout-2.0.1-18 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\3f6beaa4c4788e6f9d47859713652e3a\transformed\constraintlayout-2.0.1\res
-com.buy2enjoy.returnscanner.app-jetified-ui-geometry-release-19 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\49ac36eeeff42a956e739081c2fff843\transformed\jetified-ui-geometry-release\res
-com.buy2enjoy.returnscanner.app-jetified-lifecycle-runtime-ktx-release-20 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\4bb557c823b059f0593fc1ca1e92300d\transformed\jetified-lifecycle-runtime-ktx-release\res
-com.buy2enjoy.returnscanner.app-jetified-coil-base-2.6.0-21 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\4f154d5816330763a76e02d21520b6ab\transformed\jetified-coil-base-2.6.0\res
-com.buy2enjoy.returnscanner.app-jetified-activity-1.9.3-22 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\516e452a6ce2f8fab06366958986f912\transformed\jetified-activity-1.9.3\res
-com.buy2enjoy.returnscanner.app-jetified-ui-util-release-23 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\52d4ec833ee3dafe0b15107677ec99d0\transformed\jetified-ui-util-release\res
-com.buy2enjoy.returnscanner.app-navigation-runtime-ktx-2.8.3-24 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\5a7b7c1e0bcf5576db41f4c6d351e296\transformed\navigation-runtime-ktx-2.8.3\res
-com.buy2enjoy.returnscanner.app-recyclerview-1.2.1-25 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\5df25dbeb5657ae5cab7fafc9ed16a1e\transformed\recyclerview-1.2.1\res
-com.buy2enjoy.returnscanner.app-room-runtime-2.6.1-26 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\606ef6a7a0fbe89c80cf85aabeb44918\transformed\room-runtime-2.6.1\res
-com.buy2enjoy.returnscanner.app-jetified-lifecycle-livedata-core-ktx-2.8.6-27 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\612877e874698863e5d6ade9e2caa442\transformed\jetified-lifecycle-livedata-core-ktx-2.8.6\res
-com.buy2enjoy.returnscanner.app-jetified-lifecycle-viewmodel-savedstate-2.8.6-28 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\6305e01d47ec30f7aec1edaec696f2f5\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.6\res
-com.buy2enjoy.returnscanner.app-jetified-camera-camera2-1.4.0-29 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\649029a17defc253a27de347ed1b6f8a\transformed\jetified-camera-camera2-1.4.0\res
-com.buy2enjoy.returnscanner.app-jetified-runtime-release-30 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\653c052eac77939ff53051048a04e201\transformed\jetified-runtime-release\res
-com.buy2enjoy.returnscanner.app-navigation-runtime-2.8.3-31 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\6960e0da997d147de2d5b1b68ada4448\transformed\navigation-runtime-2.8.3\res
-com.buy2enjoy.returnscanner.app-appcompat-1.6.1-32 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\69ecb27ae86f5906680ffe97998ca91d\transformed\appcompat-1.6.1\res
-com.buy2enjoy.returnscanner.app-jetified-ui-tooling-release-33 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\702d49acaed08ef398aa6c46c6ec3cd1\transformed\jetified-ui-tooling-release\res
-com.buy2enjoy.returnscanner.app-jetified-lifecycle-viewmodel-release-34 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\70bdf797faff67aeb9801ab1053425c5\transformed\jetified-lifecycle-viewmodel-release\res
-com.buy2enjoy.returnscanner.app-jetified-lifecycle-viewmodel-ktx-2.8.6-35 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\79f1644d19297fefffd3ef61a8520406\transformed\jetified-lifecycle-viewmodel-ktx-2.8.6\res
-com.buy2enjoy.returnscanner.app-navigation-common-2.8.3-36 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\7b10c89654634e18e666122237e43cdb\transformed\navigation-common-2.8.3\res
-com.buy2enjoy.returnscanner.app-jetified-emoji2-1.3.0-37 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\7d655105c6106fb008f065f3937c1877\transformed\jetified-emoji2-1.3.0\res
-com.buy2enjoy.returnscanner.app-jetified-profileinstaller-1.3.1-38 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\82547b1c3528dbe0a26be8b8502985ae\transformed\jetified-profileinstaller-1.3.1\res
-com.buy2enjoy.returnscanner.app-jetified-runtime-saveable-release-39 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\87790cc6ad1e5a59edfe20c761bb1892\transformed\jetified-runtime-saveable-release\res
-com.buy2enjoy.returnscanner.app-transition-1.5.0-40 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\89ff12c2526797ac62a18c20f609ed92\transformed\transition-1.5.0\res
-com.buy2enjoy.returnscanner.app-jetified-lifecycle-service-2.8.6-41 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\8d207326dd5050543bcbdeef18adad29\transformed\jetified-lifecycle-service-2.8.6\res
-com.buy2enjoy.returnscanner.app-jetified-emoji2-views-helper-1.3.0-42 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\8e83afa790b66feffcc650d877db7904\transformed\jetified-emoji2-views-helper-1.3.0\res
-com.buy2enjoy.returnscanner.app-jetified-savedstate-ktx-1.2.1-43 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\8f201a164c5df3979dbbcbcd970629f5\transformed\jetified-savedstate-ktx-1.2.1\res
-com.buy2enjoy.returnscanner.app-jetified-savedstate-1.2.1-44 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\9107a2490ab243f9ff0f23b57d48dd0e\transformed\jetified-savedstate-1.2.1\res
-com.buy2enjoy.returnscanner.app-jetified-play-services-base-18.1.0-45 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\9914c79f45d4335c891e2d068bc300a0\transformed\jetified-play-services-base-18.1.0\res
-com.buy2enjoy.returnscanner.app-jetified-hilt-navigation-compose-1.2.0-46 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\9a01205294e6f82e32630ee7a6ba2d1c\transformed\jetified-hilt-navigation-compose-1.2.0\res
-com.buy2enjoy.returnscanner.app-jetified-camera-core-1.4.0-47 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\9c9a7f894b4e48f37908dfe454578d2f\transformed\jetified-camera-core-1.4.0\res
-com.buy2enjoy.returnscanner.app-jetified-graphics-path-1.0.1-48 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\a12d323520a1478fa96660547f9c749d\transformed\jetified-graphics-path-1.0.1\res
-com.buy2enjoy.returnscanner.app-jetified-material-ripple-release-49 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\aca462f9a45a5d963fc2a0d9fcf1b732\transformed\jetified-material-ripple-release\res
-com.buy2enjoy.returnscanner.app-jetified-lifecycle-runtime-compose-release-50 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\b1ac40485fbad7fec3831b0102d571dc\transformed\jetified-lifecycle-runtime-compose-release\res
-com.buy2enjoy.returnscanner.app-jetified-lifecycle-viewmodel-compose-release-51 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\b24db94756c4e29aaf04e8517f873e8a\transformed\jetified-lifecycle-viewmodel-compose-release\res
-com.buy2enjoy.returnscanner.app-jetified-ui-graphics-release-52 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\b2e12794d29d933286f00506984f3ab5\transformed\jetified-ui-graphics-release\res
-com.buy2enjoy.returnscanner.app-jetified-customview-poolingcontainer-1.0.0-53 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\b80f9a3177b566245c3b0a717a7d732a\transformed\jetified-customview-poolingcontainer-1.0.0\res
-com.buy2enjoy.returnscanner.app-fragment-1.5.1-54 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\c330bccde05586d8f31fed5c786174da\transformed\fragment-1.5.1\res
-com.buy2enjoy.returnscanner.app-jetified-activity-ktx-1.9.3-55 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\c550425983820005ada0291d1d2d26f6\transformed\jetified-activity-ktx-1.9.3\res
-com.buy2enjoy.returnscanner.app-work-runtime-ktx-2.9.1-56 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\c982c3dc85792e685d6f0d367eb72804\transformed\work-runtime-ktx-2.9.1\res
-com.buy2enjoy.returnscanner.app-jetified-ui-text-release-57 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\cbc0c19fb3813fc8d96587909e89eb41\transformed\jetified-ui-text-release\res
-com.buy2enjoy.returnscanner.app-jetified-appcompat-resources-1.6.1-58 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\cd907bf2dd4e6119b424556ee53adb53\transformed\jetified-appcompat-resources-1.6.1\res
-com.buy2enjoy.returnscanner.app-jetified-animation-release-59 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\cf037b284a1abac8f168134da5ec48c3\transformed\jetified-animation-release\res
-com.buy2enjoy.returnscanner.app-jetified-room-ktx-2.6.1-60 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\cfce1348b22715e6034d3fa6d55ec9b2\transformed\jetified-room-ktx-2.6.1\res
-com.buy2enjoy.returnscanner.app-jetified-ui-tooling-data-release-61 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\d12e46cb6c13bbab55013da317f77104\transformed\jetified-ui-tooling-data-release\res
-com.buy2enjoy.returnscanner.app-lifecycle-livedata-2.8.6-62 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\d4b7d8fde825ba8b6ef5d1199b019fa1\transformed\lifecycle-livedata-2.8.6\res
-com.buy2enjoy.returnscanner.app-jetified-camera-video-1.4.0-63 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\d5126ac6dcb46ed9837cd6c92bc0d50d\transformed\jetified-camera-video-1.4.0\res
-com.buy2enjoy.returnscanner.app-lifecycle-livedata-core-2.8.6-64 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\d92d4dab3ff5945656feddeee0e9b299\transformed\lifecycle-livedata-core-2.8.6\res
-com.buy2enjoy.returnscanner.app-core-runtime-2.2.0-65 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\d979c4eb4edbd34321b24496f2dd223e\transformed\core-runtime-2.2.0\res
-com.buy2enjoy.returnscanner.app-jetified-material-icons-core-release-66 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\dbe37584c55050dd7de763e8b6056535\transformed\jetified-material-icons-core-release\res
-com.buy2enjoy.returnscanner.app-jetified-annotation-experimental-1.4.1-67 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\de89c870e9ee1e4416185e56c04d51e7\transformed\jetified-annotation-experimental-1.4.1\res
-com.buy2enjoy.returnscanner.app-navigation-common-ktx-2.8.3-68 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\e30cdadf82fcebaee910ab8d6a85c7bb\transformed\navigation-common-ktx-2.8.3\res
-com.buy2enjoy.returnscanner.app-sqlite-2.4.0-69 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\e3792a4526b422ef945f40dc7cb2690f\transformed\sqlite-2.4.0\res
-com.buy2enjoy.returnscanner.app-jetified-play-services-basement-18.1.0-70 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\e9f3f627b81770e3db02e6d7947aa807\transformed\jetified-play-services-basement-18.1.0\res
-com.buy2enjoy.returnscanner.app-jetified-foundation-release-71 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\eab08596eb106d63ed21ca315001aa05\transformed\jetified-foundation-release\res
-com.buy2enjoy.returnscanner.app-jetified-ui-unit-release-72 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\eb1141605000ae6cd5e82a75bd50ea77\transformed\jetified-ui-unit-release\res
-com.buy2enjoy.returnscanner.app-jetified-ui-tooling-preview-release-73 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\ebfdbbaaa2d749550eba8fde27354f2f\transformed\jetified-ui-tooling-preview-release\res
-com.buy2enjoy.returnscanner.app-jetified-tracing-ktx-1.2.0-74 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\f6bacfd8ba128d543429235c78adf6ca\transformed\jetified-tracing-ktx-1.2.0\res
-com.buy2enjoy.returnscanner.app-jetified-tracing-1.2.0-75 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\f823e1643dcd8c1f935ccd0b5236994d\transformed\jetified-tracing-1.2.0\res
-com.buy2enjoy.returnscanner.app-sqlite-framework-2.4.0-76 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\f88790498b6a2f82d0b061f3f72ff704\transformed\sqlite-framework-2.4.0\res
-com.buy2enjoy.returnscanner.app-jetified-camera-lifecycle-1.4.0-77 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\f8c039bb50f27103e3c88b4546eb7674\transformed\jetified-camera-lifecycle-1.4.0\res
-com.buy2enjoy.returnscanner.app-cardview-1.0.0-78 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\f90d92da1bfae7bd5a3994267cff472c\transformed\cardview-1.0.0\res
-com.buy2enjoy.returnscanner.app-jetified-material-release-79 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\fa9cd772648c3c543f32e60fb1b9a1e9\transformed\jetified-material-release\res
-com.buy2enjoy.returnscanner.app-jetified-lifecycle-livedata-ktx-2.8.6-80 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\fb0b2966df53c5665d75f077f30bae0e\transformed\jetified-lifecycle-livedata-ktx-2.8.6\res
-com.buy2enjoy.returnscanner.app-jetified-camera-view-1.4.0-81 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\fb6849610a430eb64d91d666b087ba38\transformed\jetified-camera-view-1.4.0\res
-com.buy2enjoy.returnscanner.app-coordinatorlayout-1.1.0-82 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\fc90b98bf1a493a732d233add775f0bf\transformed\coordinatorlayout-1.1.0\res
-com.buy2enjoy.returnscanner.app-jetified-startup-runtime-1.1.1-83 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\ff03d1e1ff7fc77c73820ceef58ec06d\transformed\jetified-startup-runtime-1.1.1\res
-com.buy2enjoy.returnscanner.app-resValues-84 D:\app\app\build\generated\res\resValues\debug
-com.buy2enjoy.returnscanner.app-packageDebugResources-85 D:\app\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.buy2enjoy.returnscanner.app-packageDebugResources-86 D:\app\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.buy2enjoy.returnscanner.app-debug-87 D:\app\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.buy2enjoy.returnscanner.app-debug-88 D:\app\app\src\debug\res
-com.buy2enjoy.returnscanner.app-main-89 D:\app\app\src\main\res
-com.buy2enjoy.returnscanner.app-debug-90 D:\app\core-camera\build\intermediates\packaged_res\debug\packageDebugResources
-com.buy2enjoy.returnscanner.app-debug-91 D:\app\core-common\build\intermediates\packaged_res\debug\packageDebugResources
-com.buy2enjoy.returnscanner.app-debug-92 D:\app\core-database\build\intermediates\packaged_res\debug\packageDebugResources
-com.buy2enjoy.returnscanner.app-debug-93 D:\app\core-ml\build\intermediates\packaged_res\debug\packageDebugResources
-com.buy2enjoy.returnscanner.app-debug-94 D:\app\core-ui\build\intermediates\packaged_res\debug\packageDebugResources
-com.buy2enjoy.returnscanner.app-debug-95 D:\app\data\build\intermediates\packaged_res\debug\packageDebugResources
-com.buy2enjoy.returnscanner.app-debug-96 D:\app\domain\build\intermediates\packaged_res\debug\packageDebugResources
-com.buy2enjoy.returnscanner.app-debug-97 D:\app\feature-detail\build\intermediates\packaged_res\debug\packageDebugResources
-com.buy2enjoy.returnscanner.app-debug-98 D:\app\feature-export\build\intermediates\packaged_res\debug\packageDebugResources
-com.buy2enjoy.returnscanner.app-debug-99 D:\app\feature-list\build\intermediates\packaged_res\debug\packageDebugResources
-com.buy2enjoy.returnscanner.app-debug-100 D:\app\feature-scan\build\intermediates\packaged_res\debug\packageDebugResources
+com.buy2enjoy.returnscanner.app-jetified-lifecycle-livedata-ktx-2.8.6-0 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\01153db075452f5f2cf0c9bcaf68032b\transformed\jetified-lifecycle-livedata-ktx-2.8.6\res
+com.buy2enjoy.returnscanner.app-jetified-ui-tooling-preview-release-1 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\084cd2937b4bd7c567b4743481ed1a18\transformed\jetified-ui-tooling-preview-release\res
+com.buy2enjoy.returnscanner.app-jetified-camera-lifecycle-1.4.0-2 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\0d01903da433f3707ee22015b125739b\transformed\jetified-camera-lifecycle-1.4.0\res
+com.buy2enjoy.returnscanner.app-jetified-emoji2-1.3.0-3 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\0d9b16a5cdfd663a7be68bca7b5a96f4\transformed\jetified-emoji2-1.3.0\res
+com.buy2enjoy.returnscanner.app-jetified-tracing-1.2.0-4 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\1631c1d43e8bae6c621c4c09b56c250b\transformed\jetified-tracing-1.2.0\res
+com.buy2enjoy.returnscanner.app-jetified-paging-common-release-5 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\1a47a953a9224def635b9096529f2eaa\transformed\jetified-paging-common-release\res
+com.buy2enjoy.returnscanner.app-jetified-lifecycle-process-2.8.6-6 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\1ad8d9c0965c9e4c761319c90a45fd37\transformed\jetified-lifecycle-process-2.8.6\res
+com.buy2enjoy.returnscanner.app-coordinatorlayout-1.1.0-7 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\1e37dc56e1a8f6280c6c2689c3fc00c1\transformed\coordinatorlayout-1.1.0\res
+com.buy2enjoy.returnscanner.app-jetified-ui-tooling-release-8 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\1e64aac4e19a876caf2cea101ffbe846\transformed\jetified-ui-tooling-release\res
+com.buy2enjoy.returnscanner.app-jetified-lifecycle-viewmodel-compose-release-9 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\20ece196b5a218ec5c06225216473baa\transformed\jetified-lifecycle-viewmodel-compose-release\res
+com.buy2enjoy.returnscanner.app-jetified-tracing-ktx-1.2.0-10 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\2a96cc88ee45925b6dcad9336c2fa697\transformed\jetified-tracing-ktx-1.2.0\res
+com.buy2enjoy.returnscanner.app-jetified-lifecycle-viewmodel-release-11 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\2f7d4be9006ddd3f7e4ff80fef16f43f\transformed\jetified-lifecycle-viewmodel-release\res
+com.buy2enjoy.returnscanner.app-jetified-ui-tooling-data-release-12 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\3b1355878145a3587b80769e70434aa8\transformed\jetified-ui-tooling-data-release\res
+com.buy2enjoy.returnscanner.app-jetified-lifecycle-viewmodel-ktx-2.8.6-13 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\3ea58134f60201709ed4f56b2e144aac\transformed\jetified-lifecycle-viewmodel-ktx-2.8.6\res
+com.buy2enjoy.returnscanner.app-jetified-runtime-saveable-release-14 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\3eaecc1eae570708118f4c3fb07cc399\transformed\jetified-runtime-saveable-release\res
+com.buy2enjoy.returnscanner.app-work-runtime-ktx-2.9.1-15 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\3f727fc59172ac41f7b86103b936163a\transformed\work-runtime-ktx-2.9.1\res
+com.buy2enjoy.returnscanner.app-appcompat-1.6.1-16 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\40177b6d9e20785013309dd30a0223e8\transformed\appcompat-1.6.1\res
+com.buy2enjoy.returnscanner.app-jetified-customview-poolingcontainer-1.0.0-17 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\41b27410a5ab561ebf6e46d50a29ab91\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.buy2enjoy.returnscanner.app-lifecycle-livedata-2.8.6-18 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\4433c63dc0dab6641e4995cc70bd9af1\transformed\lifecycle-livedata-2.8.6\res
+com.buy2enjoy.returnscanner.app-jetified-animation-core-release-19 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\514e9c6b4ce7e06a4936ba5ae1cd4e20\transformed\jetified-animation-core-release\res
+com.buy2enjoy.returnscanner.app-jetified-graphics-path-1.0.1-20 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\53a0201f6cb5aa91ff947690fdc17ee7\transformed\jetified-graphics-path-1.0.1\res
+com.buy2enjoy.returnscanner.app-navigation-common-2.8.3-21 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\5b2dde71d7506ed963a4e23ac6795a07\transformed\navigation-common-2.8.3\res
+com.buy2enjoy.returnscanner.app-jetified-ui-text-release-22 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\6241449332f955c689d8f0c0a3a0689b\transformed\jetified-ui-text-release\res
+com.buy2enjoy.returnscanner.app-jetified-lifecycle-livedata-core-ktx-2.8.6-23 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\6318c3793e4c4f984fc8b51b008135a4\transformed\jetified-lifecycle-livedata-core-ktx-2.8.6\res
+com.buy2enjoy.returnscanner.app-jetified-paging-compose-release-24 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\65458c12a30ef0ca88f34183233cf0de\transformed\jetified-paging-compose-release\res
+com.buy2enjoy.returnscanner.app-jetified-room-ktx-2.6.1-25 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\666bd103be7d8e7104e1e00357b3f71e\transformed\jetified-room-ktx-2.6.1\res
+com.buy2enjoy.returnscanner.app-jetified-appcompat-resources-1.6.1-26 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\730ed3a762c7e3da71fc6ba6a4bc4755\transformed\jetified-appcompat-resources-1.6.1\res
+com.buy2enjoy.returnscanner.app-jetified-emoji2-views-helper-1.3.0-27 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\7424d522871b767595d7af7183770b26\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.buy2enjoy.returnscanner.app-jetified-coil-base-2.6.0-28 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\7700ed2f230d7a1943ee66e0ed79e903\transformed\jetified-coil-base-2.6.0\res
+com.buy2enjoy.returnscanner.app-core-1.13.1-29 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\770ed4d4706f763461062423bfa56079\transformed\core-1.13.1\res
+com.buy2enjoy.returnscanner.app-jetified-camera-video-1.4.0-30 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\7beec4b20ea0d08d76eb92c1a8287fdc\transformed\jetified-camera-video-1.4.0\res
+com.buy2enjoy.returnscanner.app-jetified-core-ktx-1.13.1-31 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\7da28662bdfda4c4b422472bef752bfc\transformed\jetified-core-ktx-1.13.1\res
+com.buy2enjoy.returnscanner.app-constraintlayout-2.0.1-32 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\7e0496926fca9f8959af296331839b6f\transformed\constraintlayout-2.0.1\res
+com.buy2enjoy.returnscanner.app-jetified-hilt-navigation-1.2.0-33 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\7ee1e4925ac2ff9c5e6e4302202a3c34\transformed\jetified-hilt-navigation-1.2.0\res
+com.buy2enjoy.returnscanner.app-jetified-lifecycle-viewmodel-savedstate-2.8.6-34 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\7fa81709e028cbb5767eedb44ae95501\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.6\res
+com.buy2enjoy.returnscanner.app-jetified-camera-camera2-1.4.0-35 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\878b2fcd82b8acc765669b4f8f6ea4ec\transformed\jetified-camera-camera2-1.4.0\res
+com.buy2enjoy.returnscanner.app-jetified-camera-core-1.4.0-36 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\87b8b2532dbca1a9224423003cab441b\transformed\jetified-camera-core-1.4.0\res
+com.buy2enjoy.returnscanner.app-jetified-lifecycle-service-2.8.6-37 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\88e3d2266c0930796b2732fde038c187\transformed\jetified-lifecycle-service-2.8.6\res
+com.buy2enjoy.returnscanner.app-cardview-1.0.0-38 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\88fd262b3ac57f3d6061e4f33a6b7cb8\transformed\cardview-1.0.0\res
+com.buy2enjoy.returnscanner.app-jetified-activity-ktx-1.9.3-39 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\8b86d69ee78aa40b37e62c317373bdb1\transformed\jetified-activity-ktx-1.9.3\res
+com.buy2enjoy.returnscanner.app-navigation-common-ktx-2.8.3-40 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\8ec9a5d8d4063f29ecdee312a2b13339\transformed\navigation-common-ktx-2.8.3\res
+com.buy2enjoy.returnscanner.app-jetified-foundation-release-41 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\8eea33b1c689d785b49a983f9e2a49da\transformed\jetified-foundation-release\res
+com.buy2enjoy.returnscanner.app-jetified-camera-view-1.4.0-42 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\90d2364d92ff15cf432288c66709544e\transformed\jetified-camera-view-1.4.0\res
+com.buy2enjoy.returnscanner.app-jetified-ui-graphics-release-43 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\98e2cc8e513fdc932f00ded2fd298a28\transformed\jetified-ui-graphics-release\res
+com.buy2enjoy.returnscanner.app-recyclerview-1.2.1-44 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\994ee6cda538c7d353b80a4e45e9832b\transformed\recyclerview-1.2.1\res
+com.buy2enjoy.returnscanner.app-jetified-activity-compose-1.9.3-45 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\99aa2ae01875e3745fe64f3600eed2e9\transformed\jetified-activity-compose-1.9.3\res
+com.buy2enjoy.returnscanner.app-jetified-runtime-release-46 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\9c58fa0a6c56e2686ac64ebaee44e815\transformed\jetified-runtime-release\res
+com.buy2enjoy.returnscanner.app-jetified-animation-release-47 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\9e7ed23dd9716411371dbb6c8d301894\transformed\jetified-animation-release\res
+com.buy2enjoy.returnscanner.app-fragment-1.5.1-48 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\a04d48a138faa575cdc580119f0c906a\transformed\fragment-1.5.1\res
+com.buy2enjoy.returnscanner.app-paging-runtime-3.3.2-49 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\a68c0ecea613dfeecc0fda32d9b173fc\transformed\paging-runtime-3.3.2\res
+com.buy2enjoy.returnscanner.app-drawerlayout-1.1.1-50 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\a6ccd387d883c3dea0630929637fd0b4\transformed\drawerlayout-1.1.1\res
+com.buy2enjoy.returnscanner.app-jetified-lifecycle-runtime-release-51 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\a991a5440812c98720277535d95cc356\transformed\jetified-lifecycle-runtime-release\res
+com.buy2enjoy.returnscanner.app-jetified-material-release-52 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\a9bce8995b28c5410a21bf0416c72a53\transformed\jetified-material-release\res
+com.buy2enjoy.returnscanner.app-jetified-profileinstaller-1.3.1-53 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\ad1b56597d6cedc8a28fa14fe0a646e7\transformed\jetified-profileinstaller-1.3.1\res
+com.buy2enjoy.returnscanner.app-jetified-play-services-basement-18.1.0-54 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\af9cc65f125477fe6c75512bfc8d62a0\transformed\jetified-play-services-basement-18.1.0\res
+com.buy2enjoy.returnscanner.app-sqlite-framework-2.4.0-55 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\b0c07f31331036a3008f812d5cff15e6\transformed\sqlite-framework-2.4.0\res
+com.buy2enjoy.returnscanner.app-navigation-runtime-ktx-2.8.3-56 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\b0ea3bb58e943fc39cd2f325e6a0be15\transformed\navigation-runtime-ktx-2.8.3\res
+com.buy2enjoy.returnscanner.app-jetified-lifecycle-runtime-compose-release-57 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\b75868236d40658540adb53e3ee96c2e\transformed\jetified-lifecycle-runtime-compose-release\res
+com.buy2enjoy.returnscanner.app-jetified-savedstate-1.2.1-58 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\b7ec3b209698de82611820ca25f3ce8d\transformed\jetified-savedstate-1.2.1\res
+com.buy2enjoy.returnscanner.app-jetified-savedstate-ktx-1.2.1-59 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\b8570c7037de1e4d91fda3f48c5763e4\transformed\jetified-savedstate-ktx-1.2.1\res
+com.buy2enjoy.returnscanner.app-transition-1.5.0-60 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\b8d9024ca1a06c129fec43e31d1ba513\transformed\transition-1.5.0\res
+com.buy2enjoy.returnscanner.app-sqlite-2.4.0-61 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\baf10b0b1b5b7b45283ae0b69185c579\transformed\sqlite-2.4.0\res
+com.buy2enjoy.returnscanner.app-jetified-annotation-experimental-1.4.1-62 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\bdcf8bb80538b46127c960c95bed9367\transformed\jetified-annotation-experimental-1.4.1\res
+com.buy2enjoy.returnscanner.app-lifecycle-livedata-core-2.8.6-63 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\bde1f967246105185fc0e4ab39d12b7f\transformed\lifecycle-livedata-core-2.8.6\res
+com.buy2enjoy.returnscanner.app-jetified-material-icons-core-release-64 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\c08f4cf54929ded4ee5ef16168efd548\transformed\jetified-material-icons-core-release\res
+com.buy2enjoy.returnscanner.app-material-1.12.0-65 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\c1ebfdf12cc4e91a07bd5b966c08caf3\transformed\material-1.12.0\res
+com.buy2enjoy.returnscanner.app-work-runtime-2.9.1-66 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\c3a4eac6dc75eff9bbe0a47c240a2cd3\transformed\work-runtime-2.9.1\res
+com.buy2enjoy.returnscanner.app-jetified-activity-1.9.3-67 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\c42604e23eda14c12c79234ffee7e22e\transformed\jetified-activity-1.9.3\res
+com.buy2enjoy.returnscanner.app-jetified-ui-release-68 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\c63d114e1a7f78b90838a59a481762a3\transformed\jetified-ui-release\res
+com.buy2enjoy.returnscanner.app-core-runtime-2.2.0-69 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\c6ea3123a0cdcddd29ee97b953bf2ce7\transformed\core-runtime-2.2.0\res
+com.buy2enjoy.returnscanner.app-jetified-lifecycle-runtime-ktx-release-70 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\c756e053e441d8cf5a05d508c341ed11\transformed\jetified-lifecycle-runtime-ktx-release\res
+com.buy2enjoy.returnscanner.app-navigation-runtime-2.8.3-71 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\c8329b8b470fdee58ed43d714eb7bff1\transformed\navigation-runtime-2.8.3\res
+com.buy2enjoy.returnscanner.app-jetified-material3-release-72 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\cafa8c464b792ec15adf3e6eb7b4713e\transformed\jetified-material3-release\res
+com.buy2enjoy.returnscanner.app-jetified-navigation-compose-2.8.3-73 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\d6f0c8409ac0669f277400349db2febe\transformed\jetified-navigation-compose-2.8.3\res
+com.buy2enjoy.returnscanner.app-jetified-hilt-navigation-compose-1.2.0-74 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\db22d28b0d4637c81ddfb3088ad1bd29\transformed\jetified-hilt-navigation-compose-1.2.0\res
+com.buy2enjoy.returnscanner.app-jetified-room-paging-2.6.1-75 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\de9bd0fa6fa6b5b78398bb1c3f3365de\transformed\jetified-room-paging-2.6.1\res
+com.buy2enjoy.returnscanner.app-jetified-foundation-layout-release-76 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\dfe39b8666c3d9429a2544aea8f10160\transformed\jetified-foundation-layout-release\res
+com.buy2enjoy.returnscanner.app-jetified-play-services-base-18.1.0-77 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\dffa2b7affd364c4de333edd02e4d2f8\transformed\jetified-play-services-base-18.1.0\res
+com.buy2enjoy.returnscanner.app-jetified-material-ripple-release-78 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\e4e3e97b57744d47e7c659bd73b1eb86\transformed\jetified-material-ripple-release\res
+com.buy2enjoy.returnscanner.app-jetified-ui-unit-release-79 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\e4f9ad73b7e24fea709fb25f099b12a6\transformed\jetified-ui-unit-release\res
+com.buy2enjoy.returnscanner.app-jetified-ui-geometry-release-80 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\e6f118c13b16f2a55385a14fa2a620a1\transformed\jetified-ui-geometry-release\res
+com.buy2enjoy.returnscanner.app-jetified-startup-runtime-1.1.1-81 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\ecdfbec1befbc754cb67c2bda9b6c638\transformed\jetified-startup-runtime-1.1.1\res
+com.buy2enjoy.returnscanner.app-jetified-viewpager2-1.0.0-82 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\f463b9145df1eb38cb8dbef176344144\transformed\jetified-viewpager2-1.0.0\res
+com.buy2enjoy.returnscanner.app-room-runtime-2.6.1-83 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\f46a4748222247495be972ff90d180c9\transformed\room-runtime-2.6.1\res
+com.buy2enjoy.returnscanner.app-jetified-ui-util-release-84 C:\Users\Muhammad Ayaz\.gradle\caches\8.9\transforms\facda775dd14f4fa179c9bc500906ead\transformed\jetified-ui-util-release\res
+com.buy2enjoy.returnscanner.app-resValues-85 D:\app\app\build\generated\res\resValues\debug
+com.buy2enjoy.returnscanner.app-packageDebugResources-86 D:\app\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.buy2enjoy.returnscanner.app-packageDebugResources-87 D:\app\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.buy2enjoy.returnscanner.app-debug-88 D:\app\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.buy2enjoy.returnscanner.app-debug-89 D:\app\app\src\debug\res
+com.buy2enjoy.returnscanner.app-main-90 D:\app\app\src\main\res
+com.buy2enjoy.returnscanner.app-debug-91 D:\app\core-camera\build\intermediates\packaged_res\debug\packageDebugResources
+com.buy2enjoy.returnscanner.app-debug-92 D:\app\core-common\build\intermediates\packaged_res\debug\packageDebugResources
+com.buy2enjoy.returnscanner.app-debug-93 D:\app\core-database\build\intermediates\packaged_res\debug\packageDebugResources
+com.buy2enjoy.returnscanner.app-debug-94 D:\app\core-ml\build\intermediates\packaged_res\debug\packageDebugResources
+com.buy2enjoy.returnscanner.app-debug-95 D:\app\core-ui\build\intermediates\packaged_res\debug\packageDebugResources
+com.buy2enjoy.returnscanner.app-debug-96 D:\app\data\build\intermediates\packaged_res\debug\packageDebugResources
+com.buy2enjoy.returnscanner.app-debug-97 D:\app\domain\build\intermediates\packaged_res\debug\packageDebugResources
+com.buy2enjoy.returnscanner.app-debug-98 D:\app\feature-detail\build\intermediates\packaged_res\debug\packageDebugResources
+com.buy2enjoy.returnscanner.app-debug-99 D:\app\feature-export\build\intermediates\packaged_res\debug\packageDebugResources
+com.buy2enjoy.returnscanner.app-debug-100 D:\app\feature-list\build\intermediates\packaged_res\debug\packageDebugResources
+com.buy2enjoy.returnscanner.app-debug-101 D:\app\feature-scan\build\intermediates\packaged_res\debug\packageDebugResources
